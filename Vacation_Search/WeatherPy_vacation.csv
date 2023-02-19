@@ -1,0 +1,145 @@
+City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
+4,husavik,IS,-1.94,66.0449,-17.3389,No hotel found
+5,ushuaia,AR,3.81,-54.8,-68.3,No hotel found
+11,punta arenas,CL,5.06,-53.15,-70.9167,No hotel found
+22,linxia,CN,-1.81,35.6003,103.2064,No hotel found
+25,trabzon,TR,0.05,40.9167,39.8333,No hotel found
+36,lata,PT,6.07,40.1629,-8.3327,No hotel found
+38,shimoda,JP,7.2,34.6667,138.95,No hotel found
+42,shache,CN,1.81,38.4167,77.2406,No hotel found
+48,roald,NO,8.08,62.5833,6.1333,No hotel found
+56,mehamn,NO,-1.03,71.0357,27.8492,No hotel found
+63,tahta,EG,9.16,26.7693,31.5021,No hotel found
+68,lasa,IT,1.31,46.6166,10.7002,No hotel found
+74,asyut,EG,7.1,27.181,31.1837,No hotel found
+81,nagai,JP,-0.66,38.1036,140.035,No hotel found
+85,puerto madryn,AR,7.93,-42.7692,-65.0385,No hotel found
+86,qidong,CN,5.81,31.8128,121.6561,No hotel found
+96,fukue,JP,9.2,32.6881,128.8419,No hotel found
+103,seaford,GB,9.49,50.7714,0.1027,No hotel found
+106,rawah,IQ,4.94,34.4816,41.9093,No hotel found
+108,karasjok,NO,-1.58,69.4719,25.5112,No hotel found
+109,rawson,AR,9.05,-43.3002,-65.1023,No hotel found
+121,lompoc,US,9.88,34.6391,-120.4579,No hotel found
+129,susanville,US,-1.09,40.4163,-120.653,No hotel found
+137,port hawkesbury,CA,1.77,45.6169,-61.3485,No hotel found
+141,nara,JP,5.28,34.6851,135.8049,No hotel found
+143,vestmannaeyjar,IS,3.78,63.4427,-20.2734,No hotel found
+149,hofn,IS,1.74,64.2539,-15.2082,No hotel found
+150,corato,IT,6.29,41.1455,16.4139,No hotel found
+152,storforshei,NO,1.48,66.4043,14.5233,No hotel found
+159,katsuura,JP,6.47,35.1333,140.3,No hotel found
+163,nikolskoye,RU,-0.05,59.7035,30.7861,No hotel found
+175,kuandian,CN,-0.83,40.7286,124.7847,No hotel found
+180,vestmanna,FO,3.51,62.1564,-7.1664,No hotel found
+191,coria,ES,5.25,39.9879,-6.5377,No hotel found
+194,abu kamal,SY,4.87,34.4506,40.9171,No hotel found
+196,shorapani,GE,-0.77,42.0898,43.0866,No hotel found
+209,sirjan,IR,9.12,29.452,55.6814,No hotel found
+214,shingu,JP,8.4,33.7333,135.9833,No hotel found
+217,magrath,CA,0.08,49.4167,-112.8686,No hotel found
+224,luxor,EG,8.03,25.6989,32.6421,No hotel found
+227,hasaki,JP,7.94,35.7333,140.8333,No hotel found
+230,peterhead,GB,5.22,57.5058,-1.7981,No hotel found
+231,amiens,FR,6.81,49.9,2.3,No hotel found
+235,ostrovnoy,RU,0.06,68.0531,39.5131,No hotel found
+239,svelgen,NO,5.81,61.7685,5.2955,No hotel found
+242,portland,US,5.32,45.5234,-122.6762,No hotel found
+245,klaksvik,FO,4.51,62.2266,-6.589,No hotel found
+252,hami,CN,1.04,42.8,93.45,No hotel found
+254,astoria,US,4.94,46.1879,-123.8313,No hotel found
+261,trofors,NO,4.93,65.5333,13.4063,No hotel found
+262,aswan,EG,9.61,24.0934,32.907,No hotel found
+263,loding,NO,6.95,67.3,14.75,No hotel found
+267,berlevag,NO,-1.0,70.8578,29.0864,No hotel found
+272,grindavik,IS,0.26,63.8424,-22.4338,No hotel found
+277,komsomolskiy,UZ,2.4,40.4272,71.7189,No hotel found
+279,lewiston,US,8.0,44.1003,-70.2148,No hotel found
+281,saint george,US,2.33,37.1041,-113.5841,No hotel found
+285,ferme-neuve,CA,3.39,46.7001,-75.4493,No hotel found
+290,gueret,FR,2.74,46.1667,1.8667,No hotel found
+293,channel-port aux basques,CA,-0.63,47.5702,-59.1367,No hotel found
+305,lengshuitan,CN,9.35,26.4111,111.5956,No hotel found
+309,lebork,PL,1.75,54.5392,17.7501,No hotel found
+319,huilong,CN,5.81,31.8111,121.655,No hotel found
+328,yumen,CN,0.67,40.2833,97.2,No hotel found
+329,taywarah,AF,-0.65,33.35,64.4167,No hotel found
+330,polyarnyy,RU,0.86,69.1989,33.4478,No hotel found
+331,aanekoski,FI,-0.74,62.6946,25.818,No hotel found
+337,kentau,KZ,0.99,43.5206,68.5094,No hotel found
+338,brae,GB,6.38,60.3964,-1.353,No hotel found
+348,naantali,FI,0.24,60.4674,22.0243,No hotel found
+350,vardo,NO,-1.01,70.3705,31.1107,No hotel found
+353,winnemucca,US,-1.53,40.973,-117.7357,No hotel found
+354,fortuna,US,5.55,40.5982,-124.1573,No hotel found
+360,eureka,US,6.34,40.8021,-124.1637,No hotel found
+373,sitka,US,1.34,57.0531,-135.33,No hotel found
+377,fagersta,SE,2.25,60.0042,15.7932,No hotel found
+380,kaseda,JP,9.53,31.4167,130.3167,No hotel found
+388,asau,RO,-0.4,46.4333,26.4,No hotel found
+392,salinas,US,9.45,36.6777,-121.6555,No hotel found
+394,umea,SE,0.96,63.8284,20.2597,No hotel found
+396,ostersund,SE,-1.33,63.1792,14.6357,No hotel found
+398,ishinomaki,JP,4.0,38.4167,141.3,No hotel found
+410,dinard,FR,9.24,48.6314,-2.0614,No hotel found
+424,havoysund,NO,0.13,70.9963,24.6622,No hotel found
+432,mujiayingzi,CN,0.82,42.1167,118.7833,No hotel found
+437,kitimat,CA,2.21,54.0524,-128.6534,No hotel found
+438,namie,JP,4.75,37.4833,141.0,No hotel found
+447,tovste,UA,-1.37,48.8466,25.7262,No hotel found
+452,kilrush,IE,9.86,52.6397,-9.4833,No hotel found
+455,saint-denis,FR,7.28,48.9167,2.3333,No hotel found
+459,yuci,CN,-0.14,37.6803,112.7319,No hotel found
+465,hoquiam,US,6.11,46.9809,-123.8893,No hotel found
+468,carson city,US,0.46,39.1638,-119.7674,No hotel found
+484,baghdad,IQ,6.95,33.3406,44.4009,No hotel found
+485,disna,BY,-0.28,55.568,28.1971,No hotel found
+497,washington,US,2.22,47.5001,-120.5015,No hotel found
+499,orthez,FR,4.87,43.4884,-0.7724,No hotel found
+501,leirvik,NO,7.14,59.7798,5.5005,No hotel found
+507,lovington,US,3.35,32.944,-103.3485,No hotel found
+513,horsham,GB,9.06,51.064,-0.3272,No hotel found
+528,antigonish,CA,1.75,45.6169,-61.9986,No hotel found
+530,eastleigh,GB,8.81,50.9667,-1.35,No hotel found
+532,stralsund,DE,1.7,54.3091,13.0818,No hotel found
+540,lelystad,NL,7.23,52.5083,5.475,No hotel found
+547,gonbad-e qabus,IR,5.95,37.25,55.1672,No hotel found
+550,den helder,NL,8.34,52.9599,4.7593,No hotel found
+551,jiaozuo,CN,7.5,35.2397,113.2331,No hotel found
+554,jinchang,CN,-0.27,38.4953,102.1739,No hotel found
+563,gurlan,UZ,-0.05,41.8447,60.3919,No hotel found
+565,griffith,US,4.18,41.5284,-87.4237,No hotel found
+566,astara,AZ,0.39,38.5,48.6667,No hotel found
+567,campbell river,CA,4.69,50.0163,-125.2446,No hotel found
+579,buraydah,SA,9.25,26.326,43.975,No hotel found
+580,ryotsu,JP,2.61,38.0833,138.4333,No hotel found
+582,noceto,IT,8.58,44.8114,10.1713,No hotel found
+584,newport,GB,9.06,51.5877,-2.9984,No hotel found
+586,coihaique,CL,7.97,-45.5752,-72.0662,No hotel found
+588,hecun,CN,7.19,36.5333,114.1111,No hotel found
+593,margate,GB,9.27,51.3813,1.3862,No hotel found
+596,oksfjord,NO,2.1,70.2396,22.3479,No hotel found
+604,hihya,EG,9.39,30.6713,31.588,No hotel found
+608,oxelosund,SE,1.21,58.6706,17.1015,No hotel found
+612,kuldiga,LV,2.83,56.974,21.9572,No hotel found
+613,corat,AZ,3.05,40.5725,49.7064,No hotel found
+628,laguna,US,9.86,38.421,-121.4238,No hotel found
+631,longkou,CN,2.52,37.6508,120.3286,No hotel found
+638,ajaccio,FR,5.03,42.0,8.9167,No hotel found
+650,abrau-dyurso,RU,-1.3,44.69,37.59,No hotel found
+653,yarim,YE,8.9,14.298,44.3779,No hotel found
+660,uppsala,SE,0.69,60.0,17.75,No hotel found
+661,hauterive,FR,4.42,46.0901,3.4459,No hotel found
+666,raudeberg,NO,5.37,61.9875,5.1352,No hotel found
+673,straumen,NO,3.0,63.8709,11.2999,No hotel found
+679,shelburne,CA,4.42,44.0787,-80.2041,No hotel found
+683,yatou,CN,3.49,37.15,122.3833,No hotel found
+684,muros,ES,8.42,42.7762,-9.0603,No hotel found
+690,excelsior springs,US,2.71,39.3392,-94.2261,No hotel found
+700,vila,PT,3.49,42.0304,-8.1588,No hotel found
+710,ancud,CL,9.1,-41.8697,-73.8203,No hotel found
+711,karpathos,GR,8.98,35.507,27.2132,No hotel found
+713,tiznit,MA,9.2,29.5833,-9.5,No hotel found
+715,pueblo nuevo,MX,5.55,23.3833,-105.3833,No hotel found
+722,port hardy,CA,4.1,50.6996,-127.4199,No hotel found
+725,varhaug,NO,6.75,58.6147,5.6457,No hotel found
